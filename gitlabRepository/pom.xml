@@ -41,7 +41,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>Customer-Registration</finalName>
+		<finalName>customer-registration</finalName>
 	</build>
 
 </project>
